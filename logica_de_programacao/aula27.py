@@ -1,0 +1,10 @@
+varialvel = 'Olá mundo'
+print(varialvel[4:])
+print(varialvel[4:7])
+print(varialvel[0:5])
+print(varialvel[:5])
+print(varialvel[-8:-3])
+print(len(varialvel))
+print(varialvel[0:len(varialvel):1])
+print(varialvel[0:9:2])
+print(varialvel[::-1])
