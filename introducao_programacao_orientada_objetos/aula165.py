@@ -33,5 +33,5 @@ print(
     f'em {delta_anos.years} anos'
     f'({numero_parcelas} meses) em parcelas de '
     f'R$ {valor_parcela:,.2f}'
-
+    
 )
